@@ -1,0 +1,343 @@
+﻿<Reisid>
+	<Reis id="1">
+		<Sihtkoht>Rooma</Sihtkoht>
+		<Lennujaam>FCO</Lennujaam>
+		<Hind>899</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-06-15</Alguskuupäev>
+			<Kirjeldus>Puhkus ja vaatamisväärsused.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-06-22</Lõppkuupäev>
+		<Reisikorraldaja>TravelCo</Reisikorraldaja>
+	</Reis>
+	<Reis id="2">
+		<Sihtkoht>Pariis</Sihtkoht>
+		<Lennujaam>CDG</Lennujaam>
+		<Hind>450</Hind>
+		<Transport type="Buss">
+			<Alguskuupäev>2024-07-01</Alguskuupäev>
+			<Kirjeldus>Kultuurireis Pariisi.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-07</Lõppkuupäev>
+		<Reisikorraldaja>Holiday Ltd</Reisikorraldaja>
+	</Reis>
+	<Reis id="3">
+		<Sihtkoht>Lissabon</Sihtkoht>
+		<Lennujaam>LIS</Lennujaam>
+		<Hind>350</Hind>
+		<Transport type="Rong">
+			<Alguskuupäev>2024-08-10</Alguskuupäev>
+			<Kirjeldus>Rongireis Lissaboni.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-15</Lõppkuupäev>
+		<Reisikorraldaja>SunTrips</Reisikorraldaja>
+	</Reis>
+	<Reis id="4">
+		<Sihtkoht>Berliin</Sihtkoht>
+		<Lennujaam>TXL</Lennujaam>
+		<Hind>600</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-05-20</Alguskuupäev>
+			<Kirjeldus>Kultuuriline linnapuhkus.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-05-25</Lõppkuupäev>
+		<Reisikorraldaja>FlyFast</Reisikorraldaja>
+	</Reis>
+	<Reis id="5">
+		<Sihtkoht>Viin</Sihtkoht>
+		<Lennujaam>VIE</Lennujaam>
+		<Hind>720</Hind>
+		<Transport type="Autorent">
+			<Alguskuupäev>2024-09-01</Alguskuupäev>
+			<Kirjeldus>Roadtrip Viini.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-09-08</Lõppkuupäev>
+		<Reisikorraldaja>AutoTravel</Reisikorraldaja>
+	</Reis>
+	<Reis id="6">
+		<Sihtkoht>Amsterdam</Sihtkoht>
+		<Lennujaam>AMS</Lennujaam>
+		<Hind>550</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-06-05</Alguskuupäev>
+			<Kirjeldus>Loodus ja linnareis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-06-10</Lõppkuupäev>
+		<Reisikorraldaja>SkyHigh</Reisikorraldaja>
+	</Reis>
+	<Reis id="7">
+		<Sihtkoht>Barcelona</Sihtkoht>
+		<Lennujaam>BCN</Lennujaam>
+		<Hind>400</Hind>
+		<Transport type="Buss">
+			<Alguskuupäev>2024-07-15</Alguskuupäev>
+			<Kirjeldus>Linnareis ja rand.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-20</Lõppkuupäev>
+		<Reisikorraldaja>CityTours</Reisikorraldaja>
+	</Reis>
+	<Reis id="8">
+		<Sihtkoht>Praha</Sihtkoht>
+		<Lennujaam>PRG</Lennujaam>
+		<Hind>320</Hind>
+		<Transport type="Rong">
+			<Alguskuupäev>2024-08-12</Alguskuupäev>
+			<Kirjeldus>Ajalooline rongireis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-18</Lõppkuupäev>
+		<Reisikorraldaja>RailTrips</Reisikorraldaja>
+	</Reis>
+	<Reis id="9">
+		<Sihtkoht>Dubrovnik</Sihtkoht>
+		<Lennujaam>DBV</Lennujaam>
+		<Hind>680</Hind>
+		<Transport type="Paad">
+			<Alguskuupäev>2024-09-05</Alguskuupäev>
+			<Kirjeldus>Paadireis mööda rannikku.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-09-12</Lõppkuupäev>
+		<Reisikorraldaja>SeaVoyage</Reisikorraldaja>
+	</Reis>
+	<Reis id="10">
+		<Sihtkoht>Kopenhaagen</Sihtkoht>
+		<Lennujaam>CPH</Lennujaam>
+		<Hind>610</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-06-20</Alguskuupäev>
+			<Kirjeldus>Tänavakunst ja muuseumid.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-06-27</Lõppkuupäev>
+		<Reisikorraldaja>FlySmart</Reisikorraldaja>
+	</Reis>
+	<Reis id="11">
+		<Sihtkoht>Stockholm</Sihtkoht>
+		<Lennujaam>ARN</Lennujaam>
+		<Hind>480</Hind>
+		<Transport type="Buss">
+			<Alguskuupäev>2024-07-18</Alguskuupäev>
+			<Kirjeldus>Loodus ja linn.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-25</Lõppkuupäev>
+		<Reisikorraldaja>NordicTours</Reisikorraldaja>
+	</Reis>
+	<Reis id="12">
+		<Sihtkoht>Budapest</Sihtkoht>
+		<Lennujaam>BUD</Lennujaam>
+		<Hind>430</Hind>
+		<Transport type="Autorent">
+			<Alguskuupäev>2024-08-08</Alguskuupäev>
+			<Kirjeldus>Puhkus ja spaad.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-14</Lõppkuupäev>
+		<Reisikorraldaja>AutoExplore</Reisikorraldaja>
+	</Reis>
+	<Reis id="13">
+		<Sihtkoht>Helsingi</Sihtkoht>
+		<Lennujaam>HEL</Lennujaam>
+		<Hind>700</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-05-28</Alguskuupäev>
+			<Kirjeldus>Linnaekskursioon.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-06-04</Lõppkuupäev>
+		<Reisikorraldaja>FlyNordic</Reisikorraldaja>
+	</Reis>
+	<Reis id="14">
+		<Sihtkoht>Oslo</Sihtkoht>
+		<Lennujaam>OSL</Lennujaam>
+		<Hind>520</Hind>
+		<Transport type="Rong">
+			<Alguskuupäev>2024-07-10</Alguskuupäev>
+			<Kirjeldus>Looduse ja linnareis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-16</Lõppkuupäev>
+		<Reisikorraldaja>RailAdventures</Reisikorraldaja>
+	</Reis>
+	<Reis id="15">
+		<Sihtkoht>London</Sihtkoht>
+		<Lennujaam>LHR</Lennujaam>
+		<Hind>850</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-09-15</Alguskuupäev>
+			<Kirjeldus>Suur linnaekskursioon.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-09-22</Lõppkuupäev>
+		<Reisikorraldaja>EuroFly</Reisikorraldaja>
+	</Reis>
+	<Reis id="16">
+		<Sihtkoht>Dublin</Sihtkoht>
+		<Lennujaam>DUB</Lennujaam>
+		<Hind>400</Hind>
+		<Transport type="Buss">
+			<Alguskuupäev>2024-08-20</Alguskuupäev>
+			<Kirjeldus>Kultuur ja loodus.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-27</Lõppkuupäev>
+		<Reisikorraldaja>GreenTours</Reisikorraldaja>
+	</Reis>
+	<Reis id="17">
+		<Sihtkoht>Venetsia</Sihtkoht>
+		<Lennujaam>VCE</Lennujaam>
+		<Hind>900</Hind>
+		<Transport type="Paad">
+			<Alguskuupäev>2024-06-30</Alguskuupäev>
+			<Kirjeldus>Romantiline paadireis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-07</Lõppkuupäev>
+		<Reisikorraldaja>SeaTours</Reisikorraldaja>
+	</Reis>
+	<Reis id="18">
+		<Sihtkoht>Moskva</Sihtkoht>
+		<Lennujaam>SVO</Lennujaam>
+		<Hind>650</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-07-05</Alguskuupäev>
+			<Kirjeldus>Ajalooline ja kultuuri reis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-12</Lõppkuupäev>
+		<Reisikorraldaja>FlyEast</Reisikorraldaja>
+	</Reis>
+	<Reis id="19">
+		<Sihtkoht>Krakow</Sihtkoht>
+		<Lennujaam>KRK</Lennujaam>
+		<Hind>420</Hind>
+		<Transport type="Autorent">
+			<Alguskuupäev>2024-08-22</Alguskuupäev>
+			<Kirjeldus>Ajaloolised vaatamisväärsused.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-29</Lõppkuupäev>
+		<Reisikorraldaja>DriveTrips</Reisikorraldaja>
+	</Reis>
+	<Reis id="20">
+		<Sihtkoht>Nice</Sihtkoht>
+		<Lennujaam>NCE</Lennujaam>
+		<Hind>580</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-09-01</Alguskuupäev>
+			<Kirjeldus>Rand ja linnareis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-09-07</Lõppkuupäev>
+		<Reisikorraldaja>SunFly</Reisikorraldaja>
+	</Reis>
+	<Reis id="21">
+		<Sihtkoht>Zürich</Sihtkoht>
+		<Lennujaam>ZRH</Lennujaam>
+		<Hind>460</Hind>
+		<Transport type="Buss">
+			<Alguskuupäev>2024-07-25</Alguskuupäev>
+			<Kirjeldus>Linnareis ja loodus.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-01</Lõppkuupäev>
+		<Reisikorraldaja>CityBus</Reisikorraldaja>
+	</Reis>
+	<Reis id="22">
+		<Sihtkoht>Tallinn</Sihtkoht>
+		<Lennujaam>TLL</Lennujaam>
+		<Hind>200</Hind>
+		<Transport type="Jalgratas">
+			<Alguskuupäev>2024-06-10</Alguskuupäev>
+			<Kirjeldus>Keskkonnasõbralik reis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-06-15</Lõppkuupäev>
+		<Reisikorraldaja>EcoTours</Reisikorraldaja>
+	</Reis>
+	<Reis id="23">
+		<Sihtkoht>Rii</Sihtkoht>
+		<Lennujaam>RIX</Lennujaam>
+		<Hind>400</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-08-15</Alguskuupäev>
+			<Kirjeldus>Loodus ja ajalugu.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-22</Lõppkuupäev>
+		<Reisikorraldaja>BalticFly</Reisikorraldaja>
+	</Reis>
+	<Reis id="24">
+		<Sihtkoht>Madridi</Sihtkoht>
+		<Lennujaam>MAD</Lennujaam>
+		<Hind>750</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-07-12</Alguskuupäev>
+			<Kirjeldus>Kultuur ja puhkus.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-19</Lõppkuupäev>
+		<Reisikorraldaja>SunTravel</Reisikorraldaja>
+	</Reis>
+	<Reis id="25">
+		<Sihtkoht>Ateena</Sihtkoht>
+		<Lennujaam>ATH</Lennujaam>
+		<Hind>430</Hind>
+		<Transport type="Buss">
+			<Alguskuupäev>2024-08-05</Alguskuupäev>
+			<Kirjeldus>Ajalooline reis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-12</Lõppkuupäev>
+		<Reisikorraldaja>CityTours</Reisikorraldaja>
+	</Reis>
+	<Reis id="26">
+		<Sihtkoht>Köln</Sihtkoht>
+		<Lennujaam>CGN</Lennujaam>
+		<Hind>390</Hind>
+		<Transport type="Rong">
+			<Alguskuupäev>2024-06-18</Alguskuupäev>
+			<Kirjeldus>Linnareis ja kultuur.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-06-24</Lõppkuupäev>
+		<Reisikorraldaja>RailExplore</Reisikorraldaja>
+	</Reis>
+	<Reis id="27">
+		<Sihtkoht>Milano</Sihtkoht>
+		<Lennujaam>MXP</Lennujaam>
+		<Hind>620</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-07-22</Alguskuupäev>
+			<Kirjeldus>Mood ja kultuur.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-07-29</Lõppkuupäev>
+		<Reisikorraldaja>FlyFashion</Reisikorraldaja>
+	</Reis>
+	<Reis id="28">
+		<Sihtkoht>Lisaks</Sihtkoht>
+		<Lennujaam>LIS</Lennujaam>
+		<Hind>410</Hind>
+		<Transport type="Autorent">
+			<Alguskuupäev>2024-09-10</Alguskuupäev>
+			<Kirjeldus>Rongireis ja linn.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-09-17</Lõppkuupäev>
+		<Reisikorraldaja>DriveAway</Reisikorraldaja>
+	</Reis>
+	<Reis id="29">
+		<Sihtkoht>Venetsia</Sihtkoht>
+		<Lennujaam>VCE</Lennujaam>
+		<Hind>910</Hind>
+		<Transport type="Paad">
+			<Alguskuupäev>2024-08-25</Alguskuupäev>
+			<Kirjeldus>Romantiline paadireis.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-09-01</Lõppkuupäev>
+		<Reisikorraldaja>WaterTours</Reisikorraldaja>
+	</Reis>
+	<Reis id="30">
+		<Sihtkoht>Brüssel</Sihtkoht>
+		<Lennujaam>BRU</Lennujaam>
+		<Hind>540</Hind>
+		<Transport type="Lennuk">
+			<Alguskuupäev>2024-06-12</Alguskuupäev>
+			<Kirjeldus>Poliitika ja kultuur.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-06-18</Lõppkuupäev>
+		<Reisikorraldaja>FlyEurope</Reisikorraldaja>
+	</Reis>
+	<Reis id="31">
+		<Sihtkoht>Edinburgh</Sihtkoht>
+		<Lennujaam>EDI</Lennujaam>
+		<Hind>420</Hind>
+		<Transport type="Buss">
+			<Alguskuupäev>2024-07-28</Alguskuupäev>
+			<Kirjeldus>Loodus ja linn.</Kirjeldus>
+		</Transport>
+		<Lõppkuupäev>2024-08-04</Lõppkuupäev>
+		<Reisikorraldaja>HighlandTours</Reisikorraldaja>
+	</Reis>
+</Reisid>
